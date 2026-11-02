@@ -1,2 +1,3 @@
-# Smart-Parking-Management-System
-A proposed smart parking system for the University of Jeddah that helps students find available parking spaces using GPS and location-based services. Contributed to project planning, scope definition, scheduling, and project management documentation.
+Smart Parking Management System | Project Management
+
+Collaborated on a smart parking system project designed for the University of Jeddah. The proposed system aims to help students identify available parking spaces within the university campus using GPS and location-based services, reducing the time spent searching for parking. Contributed to project planning, scope definition, scheduling, and project management documentation.
